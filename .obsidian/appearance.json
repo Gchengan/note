@@ -1,0 +1,11 @@
+{
+  "accentColor": "",
+  "cssTheme": "AnuPpuccin",
+  "theme": "obsidian",
+  "baseFontSize": 18,
+  "translucency": false,
+  "nativeMenus": false,
+  "enabledCssSnippets": [
+    "extended-colorschemes"
+  ]
+}

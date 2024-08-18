@@ -1,0 +1,200 @@
+{
+  "main": {
+    "id": "c4b5b77563d19858",
+    "type": "split",
+    "children": [
+      {
+        "id": "09c55d19d72fa41c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8278c12346f8b00",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "springcloud/Nacos.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e8b1653c53442ac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "fff72bbf3bdca884",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d7307e891a5e567d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a169e6511e1b47a6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "file:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f7e57a06bd6eaca4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "08d20d0c4ff4a4e8",
+    "type": "split",
+    "children": [
+      {
+        "id": "2c9639b8e129a744",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "22f8b4ab4472e823",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "springcloud/Nacos.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "1c12c74640efa11f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "springcloud/Nacos.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "083534c1d4570819",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "1018fa985f420a3c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "springcloud/Nacos.md"
+              }
+            }
+          },
+          {
+            "id": "edc3b62f87b5bf97",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 598,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "d8278c12346f8b00",
+  "lastOpenFiles": [
+    "java/test.md",
+    "密码.md",
+    "未命名.md",
+    "hutool.md",
+    "shiro.md",
+    "springboot.md",
+    "未命名",
+    "ThreadPool.md",
+    "springcloud/Spring-Cloud-Gateway.md",
+    "springcloud/Nacos.md",
+    "123.md",
+    "date.md",
+    "redis.md",
+    "powershell.md",
+    "讲义md/Git教程.md",
+    "java/juc.md",
+    "nginx.md",
+    "讲义md/assets/1571990833074.png",
+    "讲义md/assets/1569293793902.png",
+    "cmd.md",
+    "springcloud.md",
+    "springboot_vue.md",
+    "cmd.md~",
+    "springcloud",
+    "未命名.canvas",
+    "2024-04-26.md",
+    "photo/springcloud/nacos.svg",
+    "photo/springcloud/2.png",
+    "photo/springcloud/1.png",
+    "photo/springcloud/nacos.png",
+    "2024-04-06.md",
+    "讲义md/assets/224637.png",
+    "photo/springcloud/屏幕截图 2023-02-15 231331.png",
+    "demo",
+    "讲义md/assets/1571991253594.png",
+    "java",
+    "新建文件夹",
+    "讲义md/assets/1572522118610.png",
+    "movie_project/未命名.md"
+  ]
+}
