@@ -9,16 +9,8 @@
 参考的是Java8的java.util.function.Predicate，开发者可以匹配Http请求中的所有内容（例如请求头或请求参数），如果请求与断言想匹配则进行路由
 
 ## 3.Filter(过滤)
-### ss
 
-# 上述
-## ss
-### wss
 
-#### ss
-##### ss
-
-###### ss
 
 指的是Spring框架中的GatewayFilter的实例，使用过滤器，可以在请求被路由前或者之后对请求进行修改
 
