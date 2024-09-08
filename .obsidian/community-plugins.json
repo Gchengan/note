@@ -1,6 +1,9 @@
 [
-  "calendar",
   "obsidian-hider",
   "obsidian-style-settings",
-  "obsidian-git"
+  "obsidian-git",
+  "pkmer",
+  "obsidian-timeline",
+  "calendar",
+  "obsidian-enhancing-mindmap"
 ]

@@ -4,18 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "09c55d19d72fa41c",
+        "id": "c2e1f495b292d4dc",
         "type": "tabs",
         "children": [
           {
-            "id": "d8278c12346f8b00",
+            "id": "8634714a801e6562",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "密码.md",
-                "mode": "source",
-                "source": false
+                "file": "软件工程/总结.canvas",
+                "viewState": {
+                  "x": -182.5,
+                  "y": -228.5000000000001,
+                  "zoom": -1.8956289310747123
+                }
               }
             }
           }
@@ -85,7 +88,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "密码.md",
+                "file": "软件工程/总结.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +105,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "密码.md",
+                "file": "软件工程/总结.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,24 +128,31 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "密码.md"
+                "file": "软件工程/总结.canvas"
               }
             }
           },
           {
-            "id": "edc3b62f87b5bf97",
+            "id": "2f14bbb52ab9f74e",
+            "type": "leaf",
+            "state": {
+              "type": "pkmer-downloader",
+              "state": {}
+            }
+          },
+          {
+            "id": "9795eeed04f4a12b",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 598,
+    "width": 634,
     "collapsed": true
   },
   "left-ribbon": {
@@ -152,14 +162,21 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "d8278c12346f8b00",
+  "active": "d7307e891a5e567d",
   "lastOpenFiles": [
+    "软件工程/未命名.canvas",
+    "软件工程/软件工程过程模型.canvas",
+    "软件工程/总结.canvas",
+    "软件工程/软件工程简史.md",
+    "软件工程/未命名思维导图.md",
     "cmd.md",
     "密码.md",
     "123.md",
+    "软件工程",
     "springcloud/Spring-Cloud-Gateway.md",
     "ThreadPool.md",
     "springcloud.md",
@@ -171,7 +188,6 @@
     "date.md",
     "java/test.md",
     "未命名.md",
-    "未命名",
     "redis.md",
     "powershell.md",
     "讲义md/Git教程.md",
