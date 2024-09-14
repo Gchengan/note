@@ -872,7 +872,7 @@ git push [remote-name] [branch-name]
 
 # 12.  命令行-- 分支
 
-```shell
+``` shell
 # 默认 分支名称为 master
 # 列出所有本地分支
 git branch
@@ -889,6 +889,8 @@ git branch -d  <分支名>
 # 强制删除分支
 git branch -D  <分支名>
 ```
+
+
 
 ```shell
 # 提交分支至远程仓库

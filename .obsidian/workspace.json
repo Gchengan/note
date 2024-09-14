@@ -4,21 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "c2e1f495b292d4dc",
+        "id": "213b3b14a938a20c",
         "type": "tabs",
         "children": [
           {
-            "id": "8634714a801e6562",
+            "id": "6aee9683c4b99388",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "软件工程/总结.canvas",
-                "viewState": {
-                  "x": -182.5,
-                  "y": -228.5000000000001,
-                  "zoom": -1.8956289310747123
-                }
+                "file": "讲义md/Git教程.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "软件工程/总结.canvas",
+                "file": "讲义md/Git教程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "软件工程/总结.canvas",
+                "file": "讲义md/Git教程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "软件工程/总结.canvas"
+                "file": "讲义md/Git教程.md"
               }
             }
           },
@@ -148,12 +145,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 634,
-    "collapsed": true
+    "width": 634
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -166,16 +163,24 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "d7307e891a5e567d",
+  "active": "6aee9683c4b99388",
   "lastOpenFiles": [
-    "软件工程/未命名.canvas",
-    "软件工程/软件工程过程模型.canvas",
-    "软件工程/总结.canvas",
-    "软件工程/软件工程简史.md",
-    "软件工程/未命名思维导图.md",
-    "cmd.md",
+    "讲义md/Git教程.md",
+    "讲义md/assets/224637.png",
+    "date.md",
     "密码.md",
     "123.md",
+    "photo/springcloud/nacos.svg",
+    "photo/springcloud/nacos.png",
+    "photo/springcloud/屏幕截图 2023-02-15 231331.png",
+    "photo/springcloud/2.png",
+    "photo/springcloud/1.png",
+    "软件工程/总结.canvas",
+    "软件工程/软件工程简史.md",
+    "软件工程/软件工程过程模型.canvas",
+    "软件工程/未命名.canvas",
+    "软件工程/未命名思维导图.md",
+    "cmd.md",
     "软件工程",
     "springcloud/Spring-Cloud-Gateway.md",
     "ThreadPool.md",
@@ -185,12 +190,10 @@
     "shiro.md",
     "hutool.md",
     "springcloud/Nacos.md",
-    "date.md",
     "java/test.md",
     "未命名.md",
     "redis.md",
     "powershell.md",
-    "讲义md/Git教程.md",
     "java/juc.md",
     "nginx.md",
     "讲义md/assets/1571990833074.png",
@@ -199,13 +202,7 @@
     "springcloud",
     "未命名.canvas",
     "2024-04-26.md",
-    "photo/springcloud/nacos.svg",
-    "photo/springcloud/2.png",
-    "photo/springcloud/1.png",
-    "photo/springcloud/nacos.png",
     "2024-04-06.md",
-    "讲义md/assets/224637.png",
-    "photo/springcloud/屏幕截图 2023-02-15 231331.png",
     "demo",
     "讲义md/assets/1571991253594.png",
     "java",

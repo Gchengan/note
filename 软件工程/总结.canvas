@@ -37,7 +37,16 @@
 		{"id":"974ff2ec3c659c4c","type":"text","text":"- **过程评估（Process Assessment）**：评估现有过程的有效性。\n- **过程改进（Process Improvement）**：提出改进建议并实施改进措施。","x":710,"y":110,"width":365,"height":60},
 		{"id":"2483141dc4c5af27","type":"text","text":"     \n     \n     \n     软件工程","x":-1440,"y":-320,"width":250,"height":267,"color":"5"},
 		{"id":"aa32233ac1ad3e82","type":"text","text":"软件过程模型","x":-498,"y":-1786,"width":250,"height":60},
-		{"id":"739473ccce3fd926","type":"file","file":"软件工程/软件工程过程模型.canvas","x":74,"y":-1957,"width":400,"height":400}
+		{"id":"739473ccce3fd926","type":"file","file":"软件工程/软件工程过程模型.canvas","x":74,"y":-1957,"width":400,"height":400},
+		{"id":"b1f364ca800ff32d","x":0,"y":1570,"width":250,"height":60,"type":"text","text":"jetbrains全家桶"},
+		{"id":"57fc8c46932f0a27","x":0,"y":1720,"width":250,"height":60,"type":"text","text":"Navicat"},
+		{"id":"98b5092baaf87a3e","x":-6,"y":1831,"width":250,"height":60,"type":"text","text":"git"},
+		{"id":"c18d29772b12a95c","x":0,"y":1960,"width":250,"height":60,"type":"text","text":"wsl"},
+		{"id":"0cdb37c93ae8e954","x":-397,"y":1780,"width":250,"height":60,"type":"text","text":"开发工具"},
+		{"id":"e36637c7e2175867","x":0,"y":2080,"width":250,"height":60,"type":"text","text":"vscode"},
+		{"id":"57172b8c9d97a94b","x":-440,"y":2280,"width":250,"height":60,"type":"text","text":"实践项目"},
+		{"id":"b6dcdece09223f29","x":-45,"y":2280,"width":250,"height":60,"type":"text","text":"GitHub"},
+		{"id":"d707b284d596016c","x":330,"y":2280,"width":250,"height":60,"type":"text","text":"pure-admin"}
 	],
 	"edges":[
 		{"id":"ccb987d0946d6505","fromNode":"2483141dc4c5af27","fromSide":"right","toNode":"6c3ba06eacbbd96c","toSide":"left"},
@@ -76,6 +85,15 @@
 		{"id":"391f7fb70d0416fc","fromNode":"99855e42366b08ef","fromSide":"right","toNode":"0ef81cba97159049","toSide":"left"},
 		{"id":"cdddbe23f0174259","fromNode":"2483141dc4c5af27","fromSide":"right","toNode":"ce2f076975c98dd9","toSide":"left"},
 		{"id":"2d9211aca5857e93","fromNode":"2483141dc4c5af27","fromSide":"right","toNode":"aa32233ac1ad3e82","toSide":"left"},
-		{"id":"46c7ddff3982d2b2","fromNode":"aa32233ac1ad3e82","fromSide":"right","toNode":"739473ccce3fd926","toSide":"left"}
+		{"id":"46c7ddff3982d2b2","fromNode":"aa32233ac1ad3e82","fromSide":"right","toNode":"739473ccce3fd926","toSide":"left"},
+		{"id":"bf33ac573c4fd066","fromNode":"0cdb37c93ae8e954","fromSide":"right","toNode":"b1f364ca800ff32d","toSide":"left"},
+		{"id":"9ae64ff194b0eaf6","fromNode":"0cdb37c93ae8e954","fromSide":"right","toNode":"57fc8c46932f0a27","toSide":"left"},
+		{"id":"8ea05529c79d5258","fromNode":"0cdb37c93ae8e954","fromSide":"right","toNode":"98b5092baaf87a3e","toSide":"left"},
+		{"id":"7e1505a10c49120b","fromNode":"0cdb37c93ae8e954","fromSide":"right","toNode":"c18d29772b12a95c","toSide":"left"},
+		{"id":"394e1e0381ab917c","fromNode":"0cdb37c93ae8e954","fromSide":"right","toNode":"e36637c7e2175867","toSide":"left"},
+		{"id":"cff64c3d382ef6f6","fromNode":"57172b8c9d97a94b","fromSide":"right","toNode":"b6dcdece09223f29","toSide":"left"},
+		{"id":"66e0b1c9c97354bc","fromNode":"b6dcdece09223f29","fromSide":"right","toNode":"d707b284d596016c","toSide":"left"},
+		{"id":"62b942e0a9820031","fromNode":"2483141dc4c5af27","fromSide":"right","toNode":"0cdb37c93ae8e954","toSide":"left"},
+		{"id":"21de35ae62665bb5","fromNode":"2483141dc4c5af27","fromSide":"right","toNode":"57172b8c9d97a94b","toSide":"left"}
 	]
 }
