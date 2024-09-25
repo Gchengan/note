@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "213b3b14a938a20c",
+        "id": "98d58c9a019e54da",
         "type": "tabs",
         "children": [
           {
-            "id": "6aee9683c4b99388",
+            "id": "fe8813eabf6eb7db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "讲义md/Git教程.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -69,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "08d20d0c4ff4a4e8",
@@ -85,7 +82,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "讲义md/Git教程.md",
+                "file": "photo/springcloud/1.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +99,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "讲义md/Git教程.md",
+                "file": "photo/springcloud/1.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +122,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "讲义md/Git教程.md"
+                "file": "photo/springcloud/1.png"
               }
             }
           },
@@ -163,7 +160,7 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "6aee9683c4b99388",
+  "active": "fe8813eabf6eb7db",
   "lastOpenFiles": [
     "讲义md/Git教程.md",
     "讲义md/assets/224637.png",
