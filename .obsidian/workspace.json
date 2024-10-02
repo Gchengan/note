@@ -11,8 +11,12 @@
             "id": "fe8813eabf6eb7db",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "密码.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "08d20d0c4ff4a4e8",
@@ -82,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "photo/springcloud/1.png",
+                "file": "密码.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "photo/springcloud/1.png",
+                "file": "密码.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -122,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "photo/springcloud/1.png"
+                "file": "密码.md"
               }
             }
           },
@@ -162,6 +165,7 @@
   },
   "active": "fe8813eabf6eb7db",
   "lastOpenFiles": [
+    "photo/springcloud/1.png",
     "讲义md/Git教程.md",
     "讲义md/assets/224637.png",
     "date.md",
@@ -171,7 +175,6 @@
     "photo/springcloud/nacos.png",
     "photo/springcloud/屏幕截图 2023-02-15 231331.png",
     "photo/springcloud/2.png",
-    "photo/springcloud/1.png",
     "软件工程/总结.canvas",
     "软件工程/软件工程简史.md",
     "软件工程/软件工程过程模型.canvas",
