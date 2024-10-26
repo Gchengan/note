@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "98d58c9a019e54da",
+        "id": "7c8b531d5348a8be",
         "type": "tabs",
         "children": [
           {
-            "id": "fe8813eabf6eb7db",
+            "id": "e74e2df40dbc7180",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "密码.md",
+                "file": "文档/wendong.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "密码.md",
+                "file": "文档/wendong.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "密码.md",
+                "file": "文档/wendong.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "密码.md"
+                "file": "文档/wendong.md"
               }
             }
           },
@@ -150,7 +150,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 634
+    "width": 634,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -163,18 +164,29 @@
       "pkmer:Open Pkmer Market": false
     }
   },
-  "active": "fe8813eabf6eb7db",
+  "active": "d7307e891a5e567d",
   "lastOpenFiles": [
-    "photo/springcloud/1.png",
-    "讲义md/Git教程.md",
-    "讲义md/assets/224637.png",
-    "date.md",
     "密码.md",
+    "文档/png/屏幕截图 2024-10-02 220817.jpg",
+    "文档/png/屏幕截图 2024-10-02 220802.jpg",
+    "文档/png/屏幕截图 2024-10-02 220727.jpg",
+    "文档/png/屏幕截图 2024-10-02 220206.jpg",
+    "文档/png/屏幕截图 2024-10-02 215742.jpg",
+    "文档/png/屏幕截图 2024-10-02 215119.jpg",
+    "文档/png/屏幕截图 2024-10-02 214015.jpg",
+    "文档/png/屏幕截图 2024-10-02 213739.jpg",
+    "文档/png",
+    "文档/新建文件夹",
+    "屏幕截图 2024-10-02 213739.jpg",
+    "wendong.md",
+    "文档/屏幕截图 2024-10-02 220817.jpg",
+    "文档/wendong.md",
+    "新建文件夹",
+    "文档",
+    "文档.md",
+    "讲义md/Git教程.md",
+    "date.md",
     "123.md",
-    "photo/springcloud/nacos.svg",
-    "photo/springcloud/nacos.png",
-    "photo/springcloud/屏幕截图 2023-02-15 231331.png",
-    "photo/springcloud/2.png",
     "软件工程/总结.canvas",
     "软件工程/软件工程简史.md",
     "软件工程/软件工程过程模型.canvas",
@@ -191,23 +203,16 @@
     "hutool.md",
     "springcloud/Nacos.md",
     "java/test.md",
-    "未命名.md",
     "redis.md",
     "powershell.md",
     "java/juc.md",
     "nginx.md",
-    "讲义md/assets/1571990833074.png",
-    "讲义md/assets/1569293793902.png",
     "cmd.md~",
     "springcloud",
     "未命名.canvas",
     "2024-04-26.md",
     "2024-04-06.md",
     "demo",
-    "讲义md/assets/1571991253594.png",
-    "java",
-    "新建文件夹",
-    "讲义md/assets/1572522118610.png",
-    "movie_project/未命名.md"
+    "java"
   ]
 }
